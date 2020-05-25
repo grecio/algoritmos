@@ -1,5 +1,9 @@
 ﻿using System;
 
+/// <summary>
+/// Este algoritmo recebe como parametro um valor inteiro e tem como saída uma SETA de asteriscos
+/// Explorando conceitos de repetição. (no caso do altoritmo, o FOR)
+/// </summary>
 namespace seta
 {
     class MainClass
